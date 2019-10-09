@@ -1,24 +1,19 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Two-Sided Market Place
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
-* System dependencies
+## Build status
+[![Build Status](https://travis-ci.org/msarit/flixster.svg?branch=master)](https://travis-ci.org/msarit/flixster)
 
-* Configuration
+### Features
+* Built on Rails
+* Mobile-responsive
+* Credit card payment capabilities (via the Stripe API)
+* User role management (e.g. instructors and students)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Credits
+* [The Firehose Project](https://thefirehoseproject.com)
