@@ -1,8 +1,8 @@
+![](screenshot.png)
+
 # Flixter
 
 Two-Sided Market Place
-
-![](screenshot.png)
 
 ## Description
 
